@@ -1,0 +1,13 @@
+C:\Users\ronng\Source\Repos\animalmanagementsystem\animalmanagementsystem\bin\Debug\netcoreapp3.1\animalmanagementsystem.exe
+C:\Users\ronng\Source\Repos\animalmanagementsystem\animalmanagementsystem\bin\Debug\netcoreapp3.1\animalmanagementsystem.deps.json
+C:\Users\ronng\Source\Repos\animalmanagementsystem\animalmanagementsystem\bin\Debug\netcoreapp3.1\animalmanagementsystem.runtimeconfig.json
+C:\Users\ronng\Source\Repos\animalmanagementsystem\animalmanagementsystem\bin\Debug\netcoreapp3.1\animalmanagementsystem.runtimeconfig.dev.json
+C:\Users\ronng\Source\Repos\animalmanagementsystem\animalmanagementsystem\bin\Debug\netcoreapp3.1\animalmanagementsystem.dll
+C:\Users\ronng\Source\Repos\animalmanagementsystem\animalmanagementsystem\bin\Debug\netcoreapp3.1\animalmanagementsystem.pdb
+C:\Users\ronng\Source\Repos\animalmanagementsystem\animalmanagementsystem\obj\Debug\netcoreapp3.1\animalmanagementsystem.csprojAssemblyReference.cache
+C:\Users\ronng\Source\Repos\animalmanagementsystem\animalmanagementsystem\obj\Debug\netcoreapp3.1\animalmanagementsystem.AssemblyInfoInputs.cache
+C:\Users\ronng\Source\Repos\animalmanagementsystem\animalmanagementsystem\obj\Debug\netcoreapp3.1\animalmanagementsystem.AssemblyInfo.cs
+C:\Users\ronng\Source\Repos\animalmanagementsystem\animalmanagementsystem\obj\Debug\netcoreapp3.1\animalmanagementsystem.csproj.CoreCompileInputs.cache
+C:\Users\ronng\Source\Repos\animalmanagementsystem\animalmanagementsystem\obj\Debug\netcoreapp3.1\animalmanagementsystem.dll
+C:\Users\ronng\Source\Repos\animalmanagementsystem\animalmanagementsystem\obj\Debug\netcoreapp3.1\animalmanagementsystem.pdb
+C:\Users\ronng\Source\Repos\animalmanagementsystem\animalmanagementsystem\obj\Debug\netcoreapp3.1\animalmanagementsystem.genruntimeconfig.cache
